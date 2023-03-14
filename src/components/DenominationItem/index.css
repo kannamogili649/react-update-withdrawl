@@ -1,0 +1,15 @@
+.button-container {
+  list-style-type: none;
+  padding: 0;
+}
+.button {
+  background-color: #585076;
+  color: white;
+  min-width: 120px;
+  height: 22px;
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+}
